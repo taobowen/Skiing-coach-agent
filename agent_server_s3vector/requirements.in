@@ -1,0 +1,13 @@
+
+boto3
+langdetect
+llama-index
+llama-index-core==0.14.8
+llama-index-tools-duckduckgo
+llama-index-tools-arxiv
+llama-index-embeddings-openai
+llama-index-llms-openai
+llama-index-vector-stores-s3
+fastapi
+pydantic
+mangum
